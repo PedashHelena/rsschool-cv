@@ -2,11 +2,11 @@
 ## Resume Junior/Trainee Frontend Developer
 Ukraine, Zaporizhzhya (open to relocation)
 
-Phone, Viber, Telegram, WhatsApp: +38099927275
-Skype: pedashhelena
+Phone, Viber, Telegram, WhatsApp: +38099927275\
+Skype: pedashhelena\
 Email: pedashhelena@gmail.com
 
-**Career Objective**
+**Career Objective**\
 I want to work as a frontend developer where I could create magic and elevate user experience to the next level
 
 **Summary**
