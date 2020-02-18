@@ -1,0 +1,13 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Open Sans', Verbana, sans-serif;
+}
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
